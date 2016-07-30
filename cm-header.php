@@ -8,8 +8,4 @@
   /** load CM environment **/
   require(dirname(__FILE__) . '/cm-load.php');
 
-  /** load cm-style.php using preset PATH **/
-  require(PATH.'cm-style.php');
-
-  
 ?>
